@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "about ECMAScript6",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "sensone",
+    "githubRepository": "presentation_es6"
+  }
+}
