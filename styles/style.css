@@ -1,0 +1,23 @@
+body {
+  background-image: url(../images/es6.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  color: yellow;
+  text-shadow: none;
+  text-transform: none;
+}
+
+.red {
+  color: red;
+}
+
+section {
+  top: -220px !important;
+}
+
+.left {
+  text-align: left;
+}

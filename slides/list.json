@@ -1,1 +1,17 @@
-["index.md"]
+[
+    "index.md",
+    "history.md",
+    "scope.md",
+    "scope2.md",
+    "scope3.md",
+    "scope4.md",
+    "default-values.md",
+    "arrows-functions.md",
+    "for-of.md",
+    "classes.md",
+    "inheritance.md",
+    "modules.md",
+    "promises.md",
+    "jspmio.md",
+    "thx.md"
+]

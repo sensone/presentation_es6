@@ -1,10 +1,18 @@
 
-# about ECMAScript6
+# About ECMAScript6
 
-From the terminal, pop in:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-  ```yo reveal:slide "Slide Title"```
 
-Available options:
+Author:
 
- ```--markdown --attributes --notes```
+<div class="red">Yauheni Korsunau</div>
