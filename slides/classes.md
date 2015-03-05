@@ -1,3 +1,15 @@
 ##  Classes
+<br>
+<br>
 
-This is a new Markdown slide
+```sh
+  class Person {
+      constructor(name) {
+      this.name = name;
+    }
+
+    describe() {
+      return 'Person called ' + this.name;
+    }
+  }
+```
